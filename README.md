@@ -4,7 +4,7 @@ I’m a full-stack developer who loves building things that feel smooth, work fa
 ## Current Projects
 
 - **[Snippify](https://github.com/hiarun02/snippify)** - Create and download beautiful images of your code snippets with ease.
-- **[KiroCore](https://github.com/hiarun02/KiroCore)** - universal AI agent platform that transforms a single codebase into multiple specialized applications through configuration files.
+- **[KiroCore](https://github.com/hiarun02/KiroCore)** - a universal AIagent platform that transforms a single codebase into multiple specialized applications through config files.
 - **[RapidReport](https://github.com/hiarun02/rapidReport)** - Report emergencies instantly and securely with fast response coordination and full anonymity when needed.
 - **[Jobify](https://github.com/hiarun02/Jobify)** - Jobify is a job portal where people can find and apply for jobs, and companies recruiter can post job openings.
 - **[Clarify](https://github.com/hiarun02/Clarify)** - AI-powered image enhancer that upscales your images with just one click.
