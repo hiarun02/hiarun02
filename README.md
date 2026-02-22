@@ -1,7 +1,7 @@
 # Hi, I'm Arun 👋
 
 I’m a full-stack developer who loves building things that feel smooth, work fast, and look good.
-## Current Projects
+## All Projects
 
 - **[Snippify](https://github.com/hiarun02/snippify)** - Create and download beautiful images of your code snippets with ease.
 - **[KiroCore](https://github.com/hiarun02/KiroCore)** - a universal AIagent platform that transforms a single codebase into multiple specialized applications through config files.
