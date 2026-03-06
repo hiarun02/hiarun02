@@ -25,6 +25,4 @@ I’m a full-stack developer who loves building things that feel smooth, work fa
 
 ---
 
-*"Building solutions that matter, one commit at a time."*
-
 ![Profile Views](https://komarev.com/ghpvc/?username=hiarun02&color=blue&style=flat)
