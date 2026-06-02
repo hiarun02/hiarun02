@@ -1,6 +1,6 @@
 # Hi, I'm Arun 👋
 
-Full stack developer who loves building things that feel smooth, work fast, and look good. I specialize in Typescript , ReactJS , NextJS , ExpressJS and PostgreSQL.
+Full stack developer who love's building things that feel smooth, work fast, and look good. I specialize in Typescript , ReactJS , NextJS , ExpressJS and PostgreSQL.
 
 ---
 
