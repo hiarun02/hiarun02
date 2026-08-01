@@ -22,7 +22,7 @@ I’m a full-stack developer who loves building things that feel smooth, work fa
 
 ### Contact
 - Email: hiarun.works@gmail.com
-- Website: https://www.hiarun.me
+- Website: https://www.hiarun.com
 
 ---
 
