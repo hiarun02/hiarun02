@@ -4,19 +4,8 @@ I’m a full-stack developer who loves building things that feel smooth, work fa
 
 ---
 
-### What I Work On
-- Full-stack web development
-- Backend systems and API design
-- Database modeling and optimization
-- Modern frontend with React & Next.js
-- Authentication and scalable architectures
+Notable Woork
 
----
-
-### Tech Stack
-- **Languages**: TypeScript, JavaScript, Python  
-- **Backend**: Node.js, Express
-- **Databases**: PostgreSQL, MongoDB
 
 ---
 
